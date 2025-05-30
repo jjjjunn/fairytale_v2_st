@@ -38,8 +38,6 @@ Jinja2==3.1.6
 jiter==0.10.0
 jsonpatch==1.33
 jsonpointer==3.0.0
-jsonschema=4.24.0
-jsonschema-specifications==2025.4.1
 jupyter_client==8.6.3
 jupyter_core==5.7.2
 langchain==0.3.25
